@@ -14,6 +14,7 @@ ssaunier:
   property_type: "Entire home/apt"
   room_type: "Single room"
   entertainment: "TV, Ping-Pong table"
+  kitchen: true
 papillard:
   name: "Boris' home"
   description: Small flat in Tokyo
@@ -30,6 +31,7 @@ papillard:
   property_type: "Flat"
   room_type: "Entire home/apt"
   entertainment: "TV, Playstation, Xbox"
+  kitchen: true
 monsieurpaillard:
   name: Romain's home
   description: Nice flat in Piccadilly
@@ -46,3 +48,4 @@ monsieurpaillard:
   property_type: "Apartment"
   room_type: "Room"
   entertainment: "TV, Pool"
+  kitchen: false

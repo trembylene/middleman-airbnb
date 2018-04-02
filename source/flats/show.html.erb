@@ -86,7 +86,9 @@
           </div>
           <div class="col-xs-12 col-sm-4">
             <ul class="list-unstyled">
-              <li><i class="fa fa-cutlery"></i><strong>Kitchen</strong></li>
+              <% if flat.kitchen %>
+                <li><i class="fa fa-cutlery"></i><strong>Kitchen</strong></li>
+              <% end %>
               <li><i class="fa fa-wifi"></i><strong><%= flat.wifi ? "WiFi" : "No WiFi" %></strong></li>
             </ul>
           </div>
