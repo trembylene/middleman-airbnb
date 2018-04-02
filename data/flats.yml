@@ -1,0 +1,48 @@
+ssaunier:
+  name: "Sebastien's home"
+  description: "Charming room in Montmartre"
+  narrative: "It is a superb typically Parisian flat, uniquely decorated and very well located in the heart of the hyped and trendy Oberkampf area. It has 3 independent rooms (645 square ft) and 4 beds. It can easily accommodate up to 6 persons."
+  city_name: "Paris, France"
+  city_slug: "paris"
+  wifi: false
+  rating: 4
+  accommodates: 6
+  bathrooms: 1
+  bed_type: "Double bed"
+  bedrooms: 3
+  beds: 4
+  property_type: "Entire home/apt"
+  room_type: "Single room"
+  entertainment: "TV, Ping-Pong table"
+papillard:
+  name: "Boris' home"
+  description: Small flat in Tokyo
+  narrative: "All Natural&Mud-Wall apt. Tateishi Tokyo,Quaint Neighborhood around the Station. Many Bars still exist since right after the World War near the station. You can feel what Tokyo was like back in 1940's. Good access to Major spot (15mins-50mins )"
+  city_name: "Tokyo, Japan"
+  city_slug: "tokyo"
+  wifi: true
+  rating: 3
+  accommodates: 3
+  bathrooms: 2
+  bed_type: "Queen bed"
+  bedrooms: 2
+  beds: 3
+  property_type: "Flat"
+  room_type: "Entire home/apt"
+  entertainment: "TV, Playstation, Xbox"
+monsieurpaillard:
+  name: Romain's home
+  description: Nice flat in Piccadilly
+  narrative: "Private room 10 minutes walk from the Royal Mile & 20 from Princes Street. The room is a good size & very bright. Luxury shared bathroom. The room has a fridge, kettle and a TV but you are also welcome to use the kitchen and lounge. Help yourself to cereal and toast in the morning. Our apartment is within a beautiful Victorian red brick factory that was converted into apartments. We are situated at the end of a quiet cobbled street. Please note we have two very friendly, well behaved cats."
+  city_name: "London, UK"
+  city_slug: "london"
+  wifi: true
+  rating: 5
+  accommodates: 2
+  bathrooms: 3
+  bed_type: "King bed"
+  bedrooms: 1
+  beds: 2
+  property_type: "Apartment"
+  room_type: "Room"
+  entertainment: "TV, Pool"
